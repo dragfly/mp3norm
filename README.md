@@ -11,10 +11,10 @@ Usage:
 
 Linux
 ```
-docker run --rm -v $PWD:/files dragfly/mp3normalizer
+docker run --rm -v $PWD:/files dragfly/mp3norm
 ```
 
 Windows
 ```
-docker run --rm -v %CD%:/files dragfly/mp3normalizer
+docker run --rm -v %CD%:/files dragfly/mp3norm
 ```
